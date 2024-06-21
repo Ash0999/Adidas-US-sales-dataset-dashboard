@@ -1,5 +1,5 @@
 # Adidas-US-sales-dataset-dashboard
-## In this project, I took a Dataset of Adidas US sales and perform some analysis and ETL by the help of MicroSoft PowerBi.
+## In this project,I took a Dataset of Adidas US sales and perform some analysis and ETL by the help of MicroSoft PowerBi.
 
 
 ![Screenshot (23)](https://github.com/Ash0999/Adidas-US-sales-dataset-dashboard/assets/91678129/b8292479-4412-40f4-8636-af83f410b7fc)
